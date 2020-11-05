@@ -7,7 +7,7 @@ export default {
   name: "App",
   mounted () {
     this.$toast({
-      msg: '成功',
+      msg: 'hello',
       tipsType: 'success'
     })
   }
